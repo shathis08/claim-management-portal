@@ -1,6 +1,6 @@
 # Insurance Claim Assessor & Automation Portal
 
-An enterprise-grade internal insurance claim routing and orchestration system built on the Microsoft Power Platform. This architecture simulates high-volume medical insurance operations by applying automated thresholds to incoming triage requests.
+A simple insurance claim routing and orchestration system built on the Microsoft Power Platform. This architecture simulates high-volume medical insurance operations by applying automated thresholds to incoming triage requests.
 
 ## 🛠️ System Architecture
 
